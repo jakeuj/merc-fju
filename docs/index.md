@@ -42,7 +42,7 @@ title: Merc FJU 3.0 Docs
 
 ## Legacy Reference
 
-- 舊版官網已獨立發佈在 [3y.jakeuj.com](https://3y.jakeuj.com/)
+- 舊版官網已獨立發佈在 [3y.jakeuj.com](https://jakeuj.com/sango3838/)
 - repo 內的 `docs/3yWebsite/` 保留作為開發參考鏡像，不作為這個 Pages 站台的主內容
 
 ## Source Of Truth

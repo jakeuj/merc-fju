@@ -36,7 +36,7 @@ title: Current Game Docs
 ## 文件邊界
 
 - 這裡記錄的是目前 repo 額外補上的現行資料與設計決策。
-- 舊版技能脈絡、公告、世界觀語彙與歷史內容，改查 [3y.jakeuj.com](https://3y.jakeuj.com/) 或 repo 內 `docs/3yWebsite/` 鏡像。
+- 舊版技能脈絡、公告、世界觀語彙與歷史內容，改查 [3y.jakeuj.com](https://jakeuj.com/sango3838/) 或 repo 內 `docs/3yWebsite/` 鏡像。
 - area 世界規劃、重建追蹤與單區 spec 仍以 repo 內的 `area/world_map.md`、`area/rebuild_plan.md`、`plans/area/*.md` 為主；這裡只放 Pages 版補充索引。
 - 若未來新增更多現行版本文件，優先放在 `docs/current-game/`，不要直接混寫到舊站鏡像。
 - 可讀型技能頁目前由 `scripts/generate_current_game_skills_pages.py` 從 `skills.json` 生成；目前已覆蓋舊站各葉節點分類，後續新增技能資料時優先沿用同一條生成流程。
